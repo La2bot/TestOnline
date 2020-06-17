@@ -48,4 +48,4 @@ bot
   .on('message', (m) => eventsHandler.onMessage(bot, m))
   .on('guildMemberAdd', (m) => eventsHandler.onJoin(bot, m))
 
-bot.login(token)
+bot.login(process.env.TOKEN)
