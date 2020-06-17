@@ -1,0 +1,18 @@
+{
+  "token": "NzEyNDUwODUyODUzNjQ1MzUz.XsRxFQ.Mth2pmedBH2FAlWNlIxxx4ecC4M",
+   "prefix": "!",
+  "giveawayText": "🔑  Event Key  🔑",
+  "giveawayReaction": "🎁",
+  "hostCanWin": true,
+  "privateWelcome": "%member\nWelcome to La2Bot.eu Communiy!",
+  "publicWelcome": "%member\nWelcome to the %server Community\nIf you have any questions or problems related to the work of Adrenaline bot on any server, write a personal message to support: <@220245749424848899>",
+  "welcomeChannels": ["706266617851543623"],
+  "autoRole": "1",
+  "enableAutoMessage": true,
+  "autoMessage": "Hello La2bot Community,if you have any problem or any Question  Feel Free to Ask .",
+  "autoMessageChannel": ["693730005666234368"],
+  "autoMessageInterval": 180,
+  "contact": "220245749424848899",
+  "winnersResults": "Winners: %winners\nWinners please contact %contact",
+  "admins": ["214745840080650240", "220245749424848899"]
+}

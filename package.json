@@ -1,0 +1,15 @@
+{
+  "name": "iamhereforyou",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "keywords": [],
+  "author": "fiverr.com/quantumshmoolon",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
