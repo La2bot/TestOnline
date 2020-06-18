@@ -7,7 +7,7 @@
   "privateWelcome": "%member\nWelcome to La2Bot.eu Communiy!",
   "publicWelcome": "%member\nWelcome to the %server Community\nIf you have any questions or problems related to the work of Adrenaline bot on any server, write a personal message to support: <@220245749424848899>",
   "welcomeChannels": ["706266617851543623"],
-  "autoRole": "1",
+  "autoRole": "712453103076507721",
   "enableAutoMessage": true,
   "autoMessage": "Hello La2bot Community,if you have any problem or any Question  Feel Free to Ask .",
   "autoMessageChannel": ["693730005666234368"],
