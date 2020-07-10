@@ -11,7 +11,7 @@
   "enableAutoMessage": true,
   "autoMessage": "Hello La2bot Community,if you have any problem or any Question  Feel Free to Ask .",
   "autoMessageChannel": ["693730005666234368"],
-  "autoMessageInterval": 180,
+  "autoMessageInterval": 360,
   "contact": "220245749424848899",
   "winnersResults": "Winners: %winners\nWinners please contact %contact",
   "admins": ["214745840080650240", "220245749424848899"]
